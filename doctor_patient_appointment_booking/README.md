@@ -139,13 +139,7 @@ Please note that the API requires authentication using JWT tokens for certain en
 
 Note: Some endpoints require authentication and authorization based on user roles.
 
-## Login Credentials
-- Doctor details
-  - email:  kumargunjan1116@gmail.com,
-  - password: 1234
-- Patient details
-  - email:  vashishtnikhil158@gmail.com,
-  - password: 1234
+
 
 ## Dependencies
 The Doctor Patient Appointment Booking System relies on the following dependencies:
@@ -157,6 +151,3 @@ The Doctor Patient Appointment Booking System relies on the following dependenci
 - `bcrypt`: Library
 - `nodemailer`: To send Email notification
 
-## Deployment Link
-- [Frontend](https://splendorous-beignet-2007e7.netlify.app/)
-- [Backend](https://dull-teal-walrus-shoe.cyclic.app/)
